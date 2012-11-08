@@ -9,7 +9,7 @@
 
 var changeRedTalkPageLinks = function(){
 	$('#ca-talk.new')
-		.removeClass('new')
+		// .removeClass('new')
 		.find('a')
 			.attr('href', function(i,href){
 				return href.replace('redlink=1', 'section=new');
