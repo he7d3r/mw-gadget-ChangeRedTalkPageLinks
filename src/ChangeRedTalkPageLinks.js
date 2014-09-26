@@ -1,8 +1,6 @@
 /**
  * Make red links to talk pages behave like action=edit&section=new ([[bugzilla:22416]])
  */
-/*jslint browser: true, white: true, unparam:true*/
-/*global jQuery, mediaWiki */
 ( function ( $ ) {
 'use strict';
 
