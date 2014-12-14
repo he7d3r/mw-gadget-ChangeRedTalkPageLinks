@@ -1,5 +1,5 @@
 /**
- * Make red links to talk pages behave like action=edit&section=new ([[bugzilla:22416]])
+ * Make red links to talk pages behave like action=edit&section=new ([[phab:T24416]])
  */
 ( function ( $ ) {
 	'use strict';
